@@ -1,0 +1,12 @@
+Flask==2.2.2
+Flask-CORS
+gevent==21.12.0
+gevent-websocket==0.10.1
+gunicorn==20.1.0
+Jinja2==3.0
+joblib==1.1.0
+openai==0.27.8
+langchain==0.0.230
+python-dotenv==0.20.0
+html2text
+langchain

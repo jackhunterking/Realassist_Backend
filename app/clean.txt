@@ -1,0 +1,104 @@
+{'generalInfo': '
+
+![](https://s.followupboss.com/pictures/dan.gif)
+
+###
+
+Dan Corkill
+
+Last Communication 6 months ago
+
+', 'contactInfo': '
+
+[(218) 304-6145](tel:2183046145)
+
+(test call or text)
+
+Add email
+
+Add address
+
+', 'communicationInfo': '
+
+Relationships (2)
+
+S
+
+Sales
+
+[(855) 888-9769](tel:\(855\) 888-9769)
+
+(work)
+
+[hi@followupboss.com](mailto:hi@followupboss.com)
+
+Add address
+
+S
+
+Support
+
+[(855) 622-5311](tel:\(855\) 622-5311)
+
+(work)
+
+[support@followupboss.com](mailto:support@followupboss.com)
+
+Add address
+
+Background
+
+Follow Up Boss keeps all your leads, clients and past clients in one place, so
+you just have one place to login and follow up.
+
+Details
+
+ **Stage**
+
+Lead
+
+ **Source**
+
+Referral, 8 months ago
+
+ **Agent**
+
+Jack Hunter
+
+ **Price**
+
+ **Tags**
+
+Follow Up Boss
+
+Import
+
+Social Profile
+
+ **Facebook** [followupboss/](https://www.facebook.com/followupboss/)
+
+ **LinkedIn** [Follow Up Boss](https://www.linkedin.com/company/follow-up-
+boss)
+
+ **Twitter** <http://twitter.com/followupboss>
+
+**Google** [Search Dan Corkill](https://www.google.com/search?q=Dan Corkill)
+
+ **Name** Follow Up Boss
+
+ **Location** San Francisco
+
+Management, Real Estate, Foreclosures, Email Marketing, Marketing, Internet
+Marketing, Social Media, Entrepreneurship, Advertising, Business, Mortgages,
+Crm, Movies, Mailchimp
+
+Custom Fields
+
+ **Website**
+
+<http://www.followupboss.com>
+
+ **Birthday**
+
+'}
+

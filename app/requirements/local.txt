@@ -1,0 +1,12 @@
+-r base.txt
+
+black==22.3.0
+pyproject-flake8==0.0.1a4
+flake8==4.0.1
+isort==5.10.1
+pytest==7.1.2
+mypy==0.981
+
+types-Flask==1.1.4
+types-protobuf
+types-requests
